@@ -8,19 +8,18 @@
 ### Подготовка виртуальной машины
  **Выбор программного обеспечения для виртуализации:**
    - Для создания виртуальной машины был выбран VirtualBox.
-   - 
-
+   - ![Снимок](https://github.com/user-attachments/assets/b6726ed4-4347-47e2-805f-bfcc1aca2305)
 ### Выбор и загрузка дистрибутива
  **Выбор дистрибутива:**
    - Был выбран дистрибутив Ubuntu для установки.
    - Образ ISO был загружен с официального сайта Ubuntu.
-   - ![Alt text](<Без имени-2.png>)
+   - ![изображение](https://github.com/user-attachments/assets/736057bb-da79-435e-a1ce-7f279f6fa225)
 
 **Настройка виртуальной машины:**
    - Загруженный образ ISO был подключен к виртуальной машине в качестве виртуального CD/DVD диска.
-   - ![Alt text](<Без имени-3.png>)
-   - ![Alt text](<Без имени-4.png>)
-   - ![Alt text](<Без имени-5.png>)
+   - ![изображение](https://github.com/user-attachments/assets/2fae6203-a286-44c8-9722-e5c898ae554e)
+   - ![изображение](https://github.com/user-attachments/assets/8d86a794-a6f3-4812-9bb2-bb0795f85e36)
+   - ![изображение](https://github.com/user-attachments/assets/3a6b65da-294c-4c76-a85e-e421aaff2077)
    - ![Alt text](<Без имени-6.png>)
 
 ### Процесс установки
