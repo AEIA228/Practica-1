@@ -19,8 +19,8 @@
    - Загруженный образ ISO был подключен к виртуальной машине в качестве виртуального CD/DVD диска.
    - ![изображение](https://github.com/user-attachments/assets/2fae6203-a286-44c8-9722-e5c898ae554e)
    - ![изображение](https://github.com/user-attachments/assets/8d86a794-a6f3-4812-9bb2-bb0795f85e36)
-   - ![изображение](https://github.com/user-attachments/assets/3a6b65da-294c-4c76-a85e-e421aaff2077)
-   - ![Alt text](<Без имени-6.png>)
+   - ![tempsnip](https://github.com/user-attachments/assets/c0a259f4-9bd9-4599-85eb-d692460cde24)
+   - 
 
 ### Процесс установки
  **Запуск установки:**
